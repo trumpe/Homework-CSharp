@@ -1,0 +1,7 @@
+C:\Users\Saga Conference Room\source\repos\Homework\HomeworkConsoleApp1\bin\Debug\HomeworkConsoleApp1.exe.config
+C:\Users\Saga Conference Room\source\repos\Homework\HomeworkConsoleApp1\bin\Debug\HomeworkConsoleApp1.exe
+C:\Users\Saga Conference Room\source\repos\Homework\HomeworkConsoleApp1\bin\Debug\HomeworkConsoleApp1.pdb
+C:\Users\Saga Conference Room\source\repos\Homework\HomeworkConsoleApp1\obj\Debug\HomeworkConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Saga Conference Room\source\repos\Homework\HomeworkConsoleApp1\obj\Debug\HomeworkConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Saga Conference Room\source\repos\Homework\HomeworkConsoleApp1\obj\Debug\HomeworkConsoleApp1.exe
+C:\Users\Saga Conference Room\source\repos\Homework\HomeworkConsoleApp1\obj\Debug\HomeworkConsoleApp1.pdb

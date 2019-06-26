@@ -1,0 +1,10 @@
+C:\Users\Saga Conference Room\Desktop\github filip - CSharp\Homework-CSharp\Employee - inhertinace\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Saga Conference Room\Desktop\github filip - CSharp\Homework-CSharp\Employee - inhertinace\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Saga Conference Room\Desktop\github filip - CSharp\Homework-CSharp\Employee - inhertinace\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Saga Conference Room\Desktop\github filip - CSharp\Homework-CSharp\Employee - inhertinace\ConsoleApp2\bin\Debug\ClassLibrary2.dll
+C:\Users\Saga Conference Room\Desktop\github filip - CSharp\Homework-CSharp\Employee - inhertinace\ConsoleApp2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Saga Conference Room\Desktop\github filip - CSharp\Homework-CSharp\Employee - inhertinace\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\Saga Conference Room\Desktop\github filip - CSharp\Homework-CSharp\Employee - inhertinace\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Saga Conference Room\Desktop\github filip - CSharp\Homework-CSharp\Employee - inhertinace\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\Saga Conference Room\Desktop\github filip - CSharp\Homework-CSharp\Employee - inhertinace\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Saga Conference Room\Desktop\github filip - CSharp\Homework-CSharp\Employee - inhertinace\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

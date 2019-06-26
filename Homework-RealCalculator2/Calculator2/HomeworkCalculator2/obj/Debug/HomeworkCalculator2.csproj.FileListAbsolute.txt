@@ -1,0 +1,14 @@
+C:\Users\kosta\OneDrive\Desktop\Homework-RealCalculator2\Calculator2\HomeworkCalculator2\bin\Debug\HomeworkCalculator2.exe.config
+C:\Users\kosta\OneDrive\Desktop\Homework-RealCalculator2\Calculator2\HomeworkCalculator2\bin\Debug\HomeworkCalculator2.exe
+C:\Users\kosta\OneDrive\Desktop\Homework-RealCalculator2\Calculator2\HomeworkCalculator2\bin\Debug\HomeworkCalculator2.pdb
+C:\Users\kosta\OneDrive\Desktop\Homework-RealCalculator2\Calculator2\HomeworkCalculator2\obj\Debug\HomeworkCalculator2.csprojAssemblyReference.cache
+C:\Users\kosta\OneDrive\Desktop\Homework-RealCalculator2\Calculator2\HomeworkCalculator2\obj\Debug\HomeworkCalculator2.csproj.CoreCompileInputs.cache
+C:\Users\kosta\OneDrive\Desktop\Homework-RealCalculator2\Calculator2\HomeworkCalculator2\obj\Debug\HomeworkCalculator2.exe
+C:\Users\kosta\OneDrive\Desktop\Homework-RealCalculator2\Calculator2\HomeworkCalculator2\obj\Debug\HomeworkCalculator2.pdb
+C:\Users\Saga Conference Room\Desktop\github filip - CSharp\Homework-CSharp\Homework-RealCalculator2\Calculator2\HomeworkCalculator2\bin\Debug\HomeworkCalculator2.exe.config
+C:\Users\Saga Conference Room\Desktop\github filip - CSharp\Homework-CSharp\Homework-RealCalculator2\Calculator2\HomeworkCalculator2\bin\Debug\HomeworkCalculator2.exe
+C:\Users\Saga Conference Room\Desktop\github filip - CSharp\Homework-CSharp\Homework-RealCalculator2\Calculator2\HomeworkCalculator2\bin\Debug\HomeworkCalculator2.pdb
+C:\Users\Saga Conference Room\Desktop\github filip - CSharp\Homework-CSharp\Homework-RealCalculator2\Calculator2\HomeworkCalculator2\obj\Debug\HomeworkCalculator2.csprojAssemblyReference.cache
+C:\Users\Saga Conference Room\Desktop\github filip - CSharp\Homework-CSharp\Homework-RealCalculator2\Calculator2\HomeworkCalculator2\obj\Debug\HomeworkCalculator2.csproj.CoreCompileInputs.cache
+C:\Users\Saga Conference Room\Desktop\github filip - CSharp\Homework-CSharp\Homework-RealCalculator2\Calculator2\HomeworkCalculator2\obj\Debug\HomeworkCalculator2.exe
+C:\Users\Saga Conference Room\Desktop\github filip - CSharp\Homework-CSharp\Homework-RealCalculator2\Calculator2\HomeworkCalculator2\obj\Debug\HomeworkCalculator2.pdb
